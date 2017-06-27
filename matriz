@@ -7,7 +7,7 @@ void main()
     int matrizMult[4][4];
     int linha, coluna;
 
-    printf("Ola, meu nome e FULANO e minha matricula e 00000000\n\n");
+    printf("Ola, meu nome e Brendon e minha matricula e 0050014441\n\n");
 
     //escrevendo na MatrizA
     for(linha = 0 ; linha < 4 ; linha++)
